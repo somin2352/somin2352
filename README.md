@@ -1,5 +1,7 @@
-## Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=soft&text=🌱Somin's%20Github🌱-nl-&fontSize=50&fontColor=000000&desc=💁‍♀️somin2352&descAlign=70&descSize=30&color=FFFFFF)
+## 🐣Somin🐣
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsomin2352%2F&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%23CDCDCD&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <!--
 **somin2352/somin2352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
