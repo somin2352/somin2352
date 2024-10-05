@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat-soft&logo=Github&logoColor=white"/>
 #
 [![Somin's GitHub stats](https://github-readme-stats.vercel.app/api?username=somin2352&theme=radical)](https://github.com/somin2352/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somin2352)](https://github.com/somin2352/github-readme-stats)
 <!--
 **somin2352/somin2352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
